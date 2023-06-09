@@ -6,11 +6,13 @@ public class Leitura {
 
         System.out.println("Digite o seu filme favorito ");
         String filme = leitura.nextLine();
-        System.out.println(filme);
         System.out.println("Qual o ano de lançamento? ");
         int anoDeLancamento = leitura.nextInt();
         System.out.println("Diga sua nota para o filme ");
         double avaliacao = leitura.nextDouble();
 
+        System.out.println(filme);
+        System.out.println(anoDeLancamento);
+        System.out.println(avaliacao);
     }
 }
