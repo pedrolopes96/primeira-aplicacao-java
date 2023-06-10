@@ -13,7 +13,5 @@ public class Loop {
         }
 
         System.out.println("Média de avalações" + mediaAvaliacao/3);
-
-
     }
 }
