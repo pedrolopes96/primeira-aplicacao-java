@@ -11,6 +11,8 @@ public class Main {
         //Média calculada a partir da opinião de três pessoas
         double media = (9.8 + 6.3 + 8.0) / 3;
         System.out.println(media);
+
+        //Text blocks
         String sinopse;
         sinopse = """
                 Filme Top Gun 
